@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.tomiwa.folalu.worldpedia.MainActivity"
+    tools:showIn="@layout/activity_main"
+    android:background="@drawable/bk2"
+    android:onClick="onclick">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Worldpedia Countries (I)"
+                android:textStyle="bold"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <Button
+                android:id="@+id/buttonIceland"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView1"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Iceland"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonIndia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAfghanistan"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="India"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonIndonesia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAlbania"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Indonesia"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonIran"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAlgeria"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Iran"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonIraq"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAndorra"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Iraq"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonIreland"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAngola"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Ireland"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonIsreal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAntiguaandBarbuda"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Isreal"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonItaly"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonArgentina"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Italy"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonIvorycoast"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAustralia"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Ivory Coast"
+                android:onClick="onClick" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

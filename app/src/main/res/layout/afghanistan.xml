@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.tomiwa.folalu.worldpedia.MainActivity"
+    tools:showIn="@layout/activity_main"
+    android:background="@drawable/bk2"
+    android:onClick="onclick">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Worldpedia Countries (B)"
+                android:textStyle="bold"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <Button
+                android:id="@+id/buttonbahamas"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView1"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Bahamas"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonbahrain"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAfghanistan"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Bahrain"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonBangladesh"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAlbania"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Bangladesh"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonBarbados"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAlgeria"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Barbados"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonBelarus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAndorra"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Belarus"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonBelgium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAngola"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Belgium"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonBelize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAntiguaandBarbuda"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Belize"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonBenin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonArgentina"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Benin"
+                android:onClick="onClick" />
+
+
+            <Button
+                android:id="@+id/buttonBhutan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAustia"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Bhutan"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonBolivia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAustralia"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Bolivia"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonBosnia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAustia"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Bosnia and Herzegovina"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonBotswana"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAustralia"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Botswana"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonBrazil"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAustia"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Brazil"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonBrunei"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAustralia"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Brunei"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonBulgaria"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAustia"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Bulgaria"
+                android:onClick="onClick" />
+
+            <Button
+                android:id="@+id/buttonBurkinafaso"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAustralia"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Burkina Faso"
+                android:onClick="onClick" />
+
+
+            <Button
+                android:id="@+id/buttonBurundi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:layout_below="@+id/buttonAustia"
+                android:background="@drawable/purple"
+                style="@style/button_text"
+                android:shadowColor="@android:color/darker_gray"
+                android:text="Burundi"
+                android:onClick="onClick" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

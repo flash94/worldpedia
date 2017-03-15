@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bk2"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.tomiwa.folalu.worldpedia.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+
+
+    <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/Worldpedia1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:textColor="@android:color/holo_orange_dark"
+        android:text="Worldpedia" />
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Worldpedia1"
+        android:background="@drawable/purple"
+        android:shadowColor="@android:color/darker_gray"
+        style="@style/button_text"
+        android:text="A" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/button1"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_below="@+id/Worldpedia1"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="B" />
+
+    <Button
+        android:id="@+id/buttonc"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/button2"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_below="@+id/Worldpedia1"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="C" />
+
+    <Button
+        android:id="@+id/buttond"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttonc"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_below="@+id/Worldpedia1"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/buttone"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttond"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_below="@+id/Worldpedia1"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="E" />
+
+    <Button
+        android:id="@+id/buttonf"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_below="@id/button1"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="F" />
+
+    <Button
+        android:id="@+id/buttong"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttonf"
+        android:layout_below="@id/button1"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="G" />
+
+    <Button
+        android:id="@+id/buttonh"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttong"
+        android:layout_below="@id/button1"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="H" />
+
+    <Button
+        android:id="@+id/buttoni"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttonh"
+        android:layout_below="@id/button1"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="I" />
+
+    <Button
+        android:id="@+id/buttonj"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttoni"
+        android:layout_below="@id/button1"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="J" />
+
+    <Button
+        android:id="@+id/buttonk"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_below="@id/buttonf"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="K" />
+
+    <Button
+        android:id="@+id/buttonl"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttonk"
+        android:layout_below="@id/buttonf"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="L" />
+
+    <Button
+        android:id="@+id/buttonm"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttonl"
+        android:layout_below="@id/buttonf"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="M" />
+
+    <Button
+        android:id="@+id/buttonn"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttonm"
+        android:layout_below="@id/buttonf"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="N" />
+
+    <Button
+        android:id="@+id/buttono"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttonn"
+        android:layout_below="@id/buttonf"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="O" />
+
+    <Button
+        android:id="@+id/buttonp"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_below="@id/buttonk"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="P" />
+
+    <Button
+        android:id="@+id/buttonq"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttonp"
+        android:layout_below="@id/buttonk"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="Q" />
+
+    <Button
+        android:id="@+id/buttonr"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttonq"
+        android:layout_below="@id/buttonk"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="R" />
+
+    <Button
+        android:id="@+id/buttons"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttonr"
+        android:layout_below="@id/buttonk"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="S" />
+
+    <Button
+        android:id="@+id/buttont"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttons"
+        android:layout_below="@id/buttonk"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="T" />
+
+    <Button
+        android:id="@+id/buttonu"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_below="@id/buttonp"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="U" />
+
+
+    <Button
+        android:id="@+id/buttonv"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttonu"
+        android:layout_below="@id/buttonp"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="V" />
+
+    <Button
+        android:id="@+id/buttonw"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttonv"
+        android:layout_below="@id/buttonp"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="W" />
+
+    <Button
+        android:id="@+id/buttonx"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@android:color/darker_gray"
+        android:layout_toRightOf="@+id/buttonw"
+        android:layout_below="@id/buttonp"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="X" />
+
+    <Button
+        android:id="@+id/buttony"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_toRightOf="@+id/buttonx"
+        android:layout_below="@id/buttonp"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="Y" />
+    <Button
+        android:id="@+id/buttonz"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/purple"
+        android:layout_below="@id/buttonu"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        style="@style/button_text"
+        android:shadowColor="@android:color/darker_gray"
+        android:text="Z" />
+    <Button
+        android:id="@+id/worldfacts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buttonz"
+        android:background="@drawable/purple"
+        android:layout_centerInParent="true"
+        android:shadowColor="@android:color/darker_gray"
+        style="@style/button_text"
+        android:text="World Facts" />
+    <Button
+        android:id="@+id/buttonquiz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/worldfacts"
+        android:background="@drawable/purple"
+        android:layout_centerInParent="true"
+        android:shadowColor="@android:color/darker_gray"
+        style="@style/button_text"
+        android:text="Take Quiz" />
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    </ScrollView>
+
+

@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tomiwa.folalu.worldpedia">
+    <uses-sdk android:minSdkVersion="15" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher3"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:screenOrientation="portrait"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.tomiwa.folalu.worldpedia.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.App2Activity" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.lastpage" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.afghanistan" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.Afghan" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttone" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttong" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonh" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttoni" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonj" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonk" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonl" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonf" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonc" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttond" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonm" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonn" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttono" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonp" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonq" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonr" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttons" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttont" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonu" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonv" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttony" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonz" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.albania" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.algeria" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.andorra" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.angola" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.antigua" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.argentina" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.australia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.austria" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.azerbaijan" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.bahamas" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.bahrain" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.bangladesh" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.barbados" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.belarus" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.belgium" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.belize" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.benin" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.bhutan" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.bolivia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.bosnia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.brazil" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quiz" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.brunei" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.bulgaria" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.burkinafaso" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.burundi" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.cambodia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.cameroon" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.canada" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.capeverde" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.centralafrican" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.chad" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.chile" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.china" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.colombia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.comoros" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.costarica" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.croatia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.cuba" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.cyprus" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.czech" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.democratic" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.denmark" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.djibouti" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.dominica" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.dominican" >
+        </activity>
+
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.easttimor" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.ecuador" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.elsalvador" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.equatorial" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.eritrea" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.estonia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.ethiopia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.fiji" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.france" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.finland" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.gambia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.garbon" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.georgia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.germany" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.ghana" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.greece" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.grenada" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.guatemala" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.guinea" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.guineabissau" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.guyana" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.haiti" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.honduras" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.hungary" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.iran" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.ireland" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.isreal" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.italy" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.ivorycoast" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.indonesia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.india" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.iceland" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.iraq" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.jordan" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.jamaica" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.japan" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.kazakhstan" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.kyrgyzstan" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.kenya" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.kiribati" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.kuwait" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.laos" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.latvia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.lebanon" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.liberia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.libya" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.liechtenstein" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.lithuania" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.luxembourg" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage2" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage3" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage4" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage5" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage6" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage7" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage8" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage9" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage10" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.worldfacts" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.nigeria" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.macedonia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.madagascar" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.malawi" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.malaysia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.maldives" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.mali" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.malta" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.marshallisland" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.mauritania" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.mauritius" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.mexico" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.micronesia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.moldova" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.monaco" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.mongolia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.montserrat" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.montenegro" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.morocco" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.mozambique" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.namibia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.nauru" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.nepal" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.netherlands" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.nicaragua" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.niger" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.northkorea" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.newzealand" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.norway" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.oman" >
+        </activity>
+
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.pakistan" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.palau" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.palestine" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.panama" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.papua" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.paraguay" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.peru" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.philippines" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.poland" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.portugal" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.qatar" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.republicofcongo" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.romania" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.russia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.saudi" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.senegal" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.serbia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.sierra" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.singapore" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.slovenia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.solomonislands" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.southafrica" >
+        </activity>
+
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.southkorea" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.spain" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.sudan" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.swaziland" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.sweden" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.switzerland" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.syria" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.taiwan" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.tajikistan" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.tanzania" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.thailand" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.togo" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.trinidad" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.tunisia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.turkey" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.turkmenistan" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.tuvalu" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.uae" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.uganda" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.ukraine" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.unitedkingdom" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.unitedstates" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.uruguay" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.uzbekistan" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.vanuatu" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.venezuela" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.vietnam" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.yemen" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.zambia" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.zimbabwe" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage11" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage12" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage13" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage14" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage15" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage16" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage17" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage18" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage19" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.quizpage20" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.splashscreen">
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.wales" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.tomiwa.folalu.worldpedia.buttonw" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,1648 @@
+<resources>
+    <string name="app_name">worldpedia</string>
+    <string name="action_settings">Settings</string>
+    <string name="question1">Which of the following countries capital is SAINT JOHNS</string>
+    <string-array name="adobe_products">
+        <item>Country Name:      Afghanistan</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Kabul</item>
+        <item>Country Currency:  Afghani</item>
+        <item>Official Language: Pashto Dari (Persian)</item>
+        <item>Presidents Name:   Ashraf Ghani</item>
+    </string-array>
+
+    <string-array name="albania">
+        <item>Country Name:      Albania</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Tirane </item>
+        <item>Country Currency:  Lek </item>
+        <item>Official Language: Albanian</item>
+        <item>Presidents Name:   Bujar Nishani</item>
+    </string-array>
+
+    <string-array name="algeria">
+        <item>Country Name:      Algeria</item>
+        <item>Continent :        Afica</item>
+        <item>Country Capital:   Algiers </item>
+        <item>Country Currency:  Dinar</item>
+        <item>Official Language: Araic</item>
+        <item>Presidents Name:   Abdelaziz Bouteflika</item>
+    </string-array>
+
+    <string-array name="andorra">
+        <item>Country Name:      Andorra</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Andorra la Vella</item>
+        <item>Country Currency:  Euro</item>
+        <item>Official Language: Catalan</item>
+        <item>Presidents Name:   Joan Enric Vives</item>
+    </string-array>
+
+    <string-array name="angola">
+        <item>Country Name:      Angola</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Luanda </item>
+        <item>Country Currency:  Kwanza</item>
+        <item>Official Language: Portuguese</item>
+        <item>Presidents Name:   José Eduardo dos Santos</item>
+    </string-array>
+
+    <string-array name="antigua">
+        <item>Country Name:      Antigua and Barbuda</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:   Saint John’s </item>
+        <item>Country Currency:  East Caribbean Dollar</item>
+        <item>Official Language: English</item>
+        <item>Presidents Name:   Rodney Williams</item>
+    </string-array>
+
+    <string-array name="argentina">
+        <item>Country Name:      Argentina</item>
+        <item>Continent :        South America</item>
+        <item>Country Capital:   Buenos Aires </item>
+        <item>Country Currency:  Peso </item>
+        <item>Official Language: Spanish</item>
+        <item>Presidents Name:   Mauricio Macri</item>
+    </string-array>
+
+    <string-array name="australia">
+        <item>Country Name:      Australia</item>
+        <item>Continent :        Australia and Oceania</item>
+        <item>Country Capital:   Canberra</item>
+        <item>Country Currency:  Australian dollar</item>
+        <item>Official Language: English</item>
+        <item>Presidents Name:   Peter Cosgrove</item>
+    </string-array>
+
+    <string-array name="austria">
+        <item>Country Name:      Austria</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Vienna</item>
+        <item>Country Currency:  Euro </item>
+        <item>Official Language: German</item>
+        <item>Presidents Name:   Heinz Fischer</item>
+    </string-array>
+
+    <string-array name="azerbaijan">
+        <item>Country Name:      Azerbaijan</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Baku</item>
+        <item>Country Currency:  Manat</item>
+        <item>Official Language: Azerbaijani</item>
+        <item>Presidents Name:   Ilham Aliyev</item>
+    </string-array>
+
+
+    <string-array name="bahamas">
+        <item>Country Name:      Bahamas</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:    Nassau</item>
+        <item>Country Currency:  Bahamian Dollar</item>
+        <item>Official Language: English</item>
+        <item>Presidents Name:   Dame Marguerite Pindling</item>
+    </string-array>
+
+    <string-array name="bahrain">
+        <item>Country Name:      Bahrain</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    Manama</item>
+        <item>Country Currency:  Bahraini dinar </item>
+        <item>Official Language:  Arabic</item>
+        <item>Presidents Name:   Sheikh Hamad bin Isa Al Khalifa</item>
+    </string-array>
+
+    <string-array name="bangladesh">
+        <item>Country Name:      Bangladesh</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Dhaka </item>
+        <item>Country Currency:  Taka</item>
+        <item>Official Language: Bengali</item>
+        <item>Presidents Name:    Abdul Hamid</item>
+    </string-array>
+
+    <string-array name="barbados">
+        <item>Country Name:      Barbados</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:    Bridgetown</item>
+        <item>Country Currency:   Barbadian Dollar</item>
+        <item>Official Language: English</item>
+        <item>Presidents Name:   Sir Elliott Belgrave</item>
+    </string-array>
+
+    <string-array name="belarus">
+        <item>Country Name:      Belarus</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Minsk </item>
+        <item>Country Currency:  Belarusian ruble</item>
+        <item>Official Language:  Belarusian Russian</item>
+        <item>Presidents Name:   Alexander Lukashenko</item>
+    </string-array>
+
+    <string-array name="belgium">
+        <item>Country Name:      Belgium</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Brussels </item>
+        <item>Country Currency:  Euro</item>
+        <item>Official Language: Dutch, French, German</item>
+        <item>Presidents Name:   King – Philippe</item>
+    </string-array>
+
+    <string-array name="belize">
+        <item>Country Name:      Belize</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:   Belmopan </item>
+        <item>Country Currency:  Belize Dollar </item>
+        <item>Official Language: English</item>
+        <item>Presidents Name:   Sir Colville Young</item>
+    </string-array>
+
+    <string-array name="benin">
+        <item>Country Name:      Benin</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:    Porto-Novo</item>
+        <item>Country Currency:   CFA franc</item>
+        <item>Official Language: French</item>
+        <item>Presidents Name:   Patrice Talon</item>
+    </string-array>
+
+
+    <string-array name="bhutan">
+        <item>Country Name:      Bhutan</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    Thimphu</item>
+        <item>Country Currency:   Bhutanese ngultrum</item>
+        <item>Official Language:  Dzongkha</item>
+        <item>Presidents Name:   Jigme Khesar Namgyel</item>
+    </string-array>
+
+    <string-array name="bolivia">
+        <item>Country Name:      Bolivia</item>
+        <item>Continent :        South America</item>
+        <item>Country Capital:    Sucre</item>
+        <item>Country Currency:   Boliviano</item>
+        <item>Official Language:  Spanish</item>
+        <item>Presidents Name:   Evo Morales</item>
+    </string-array>
+
+
+    <string-array name="bosnia">
+        <item>Country Name:      Bosnia</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Sarajevo</item>
+        <item>Country Currency:   Convertible mark</item>
+        <item>Official Language:  Bosnian, Croatian</item>
+        <item>Presidents Name:   Bakir Izetbegović</item>
+    </string-array>
+
+    <string-array name="botswana">
+        <item>Country Name:      Botswana</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Gaborone </item>
+        <item>Country Currency:   Pula </item>
+        <item>Official Language:  English</item>
+        <item>Presidents Name:    Ian Khama</item>
+    </string-array>
+
+    <string-array name="brazil">
+        <item>Country Name:      Brazil</item>
+        <item>Continent :        South America</item>
+        <item>Country Capital:   Brasilia </item>
+        <item>Country Currency:   Real</item>
+        <item>Official Language:  Portuguese</item>
+        <item>Presidents Name:   Dilma Rousseff</item>
+    </string-array>
+
+    <string-array name="brunei">
+        <item>Country Name:      Brunei</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    Bandar Seri Begawan</item>
+        <item>Country Currency:   Brunei dollar</item>
+        <item>Official Language:  Bahasa Melayu</item>
+        <item>Presidents Name:    Hassanal Bolkiah</item>
+    </string-array>
+
+    <string-array name="bulgaria">
+        <item>Country Name:      Bulgaria</item>
+        <item>Continent :        Australia and oceania</item>
+        <item>Country Capital:   Sofia </item>
+        <item>Country Currency:   Lev</item>
+        <item>Official Language:  Bulgarian</item>
+        <item>Presidents Name:   Rosen Plevneliev</item>
+    </string-array>
+
+    <string-array name="burkinafaso">
+        <item>Country Name:      Burkinafaso</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Ouagadougou </item>
+        <item>Country Currency:  CFA franc</item>
+        <item>Official Language: French</item>
+        <item>Presidents Name:   Roch Marc Christian </item>
+    </string-array>
+
+
+    <string-array name="burundi">
+        <item>Country Name:      Burundi</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:    	 Bujumbura</item>
+        <item>Country Currency:   Burundian franc</item>
+        <item>Official Language: Kirundi, French</item>
+        <item>Presidents Name:   Pierre Nkurunziza</item>
+    </string-array>
+
+    <string-array name="cambodia">
+        <item>Country Name:      Cambodia</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Phnom Penh </item>
+        <item>Country Currency:  Riel </item>
+        <item>Official Language: Khmer</item>
+        <item>Presidents Name:   Norodom Sihamoni</item>
+    </string-array>
+
+    <string-array name="cameroon">
+        <item>Country Name:      Cameroon</item>
+        <item>Continent :        Afica</item>
+        <item>Country Capital:   Yaounde </item>
+        <item>Country Currency:  CFA franc</item>
+        <item>Official Language: French, English</item>
+        <item>Presidents Name:    Paul Biya</item>
+    </string-array>
+
+    <string-array name="canada">
+        <item>Country Name:      Canada</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:   Ottawa</item>
+        <item>Country Currency:  Canadian Dollar</item>
+        <item>Official Language: French, English</item>
+        <item>Presidents Name:   David Johnston</item>
+    </string-array>
+
+    <string-array name="capeverde">
+        <item>Country Name:      Cape Verde</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Praia</item>
+        <item>Country Currency:  Cape Verdean escudo</item>
+        <item>Official Language: Portuguese</item>
+        <item>Presidents Name:   Jorge Carlos Fonseca</item>
+    </string-array>
+
+    <string-array name="centralafrican">
+        <item>Country Name:      Central African Republic</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Bangui</item>
+        <item>Country Currency:  CFA franc</item>
+        <item>Official Language: French</item>
+        <item>Presidents Name:   Faustin-Archange Touadéra</item>
+    </string-array>
+
+    <string-array name="chad">
+        <item>Country Name:      Chad</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:    N’Djamena</item>
+        <item>Country Currency:   CFA franc </item>
+        <item>Official Language:  French, Arabic</item>
+        <item>Presidents Name:   Idriss Déby</item>
+    </string-array>
+
+    <string-array name="chile">
+        <item>Country Name:      Chile</item>
+        <item>Continent :        South America</item>
+        <item>Country Capital:    Santiago</item>
+        <item>Country Currency:   Peso</item>
+        <item>Official Language:  Spanish</item>
+        <item>Presidents Name:    Michelle Bachelet</item>
+    </string-array>
+
+    <string-array name="china">
+        <item>Country Name:      China</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    Beijing</item>
+        <item>Country Currency:  Renminbi (yuan) </item>
+        <item>Official Language:  Standard Chinese</item>
+        <item>Presidents Name:   Xi Jinping</item>
+    </string-array>
+
+    <string-array name="colombia">
+        <item>Country Name:      Colombia</item>
+        <item>Continent :        South America</item>
+        <item>Country Capital:   Bogota</item>
+        <item>Country Currency:   Peso</item>
+        <item>Official Language: Spanish</item>
+        <item>Presidents Name:   Juan Manuel Santos</item>
+    </string-array>
+
+
+    <string-array name="comoros">
+        <item>Country Name:      Comoros</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:    Moroni</item>
+        <item>Country Currency:   Comorian franc</item>
+        <item>Official Language:  Comorian, Arabic,French</item>
+        <item>Presidents Name:   Azali Assoumani</item>
+    </string-array>
+
+    <string-array name="costarica">
+        <item>Country Name:      Coastarica</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    San Jose</item>
+        <item>Country Currency:   Costa Rican colon</item>
+        <item>Official Language:  Spanish</item>
+        <item>Presidents Name:   Luis Guillermo Solís</item>
+    </string-array>
+
+    <string-array name="croatia">
+        <item>Country Name:      Croatia</item>
+        <item>Continent :         Europe</item>
+        <item>Country Capital:   Zagreb </item>
+        <item>Country Currency: Kuna</item>
+        <item>Official Language: Croatian</item>
+        <item>Presidents Name:   Kolinda Grabar-Kitarović</item>
+    </string-array>
+
+    <string-array name="cuba">
+        <item>Country Name:      Cuba</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:    Havana</item>
+        <item>Country Currency:   Cuban peso</item>
+        <item>Official Language: Spanish</item>
+        <item>Presidents Name:   Raúl Castro</item>
+    </string-array>
+
+    <string-array name="cyprus">
+        <item>Country Name:      Cyprus</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Nicosia </item>
+        <item>Country Currency:  Euro</item>
+        <item>Official Language:  Greek Turkish</item>
+        <item>Presidents Name:   Nicos Anastasiades</item>
+    </string-array>
+
+    <string-array name="czech">
+        <item>Country Name:      Czech</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Prague </item>
+        <item>Country Currency:   Czech koruna</item>
+        <item>Official Language:  Czech</item>
+        <item>Presidents Name:    Miloš Zeman</item>
+    </string-array>
+    <string-array name="democratic">
+        <item>Country Name:      Democratic Congo</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:    Kinshasa </item>
+        <item>Country Currency:   Congolese franc  </item>
+        <item>Official Language:  French</item>
+        <item>Presidents Name:   Denis Sassou Nguesso</item>
+    </string-array>
+
+    <string-array name="denmark">
+        <item>Country Name:      Demark</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Copenhagen</item>
+        <item>Country Currency:   Danish krone</item>
+        <item>Official Language:  Danish</item>
+        <item>Presidents Name:    Queen – Margrethe II</item>
+    </string-array>
+
+    <string-array name="djibouti">
+        <item>Country Name:      Djibouti</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:     Djibouti</item>
+        <item>Country Currency:   Djiboutian franc </item>
+        <item>Official Language:  French, Arabic</item>
+        <item>Presidents Name:  Ismaïl Omar Guelleh</item>
+    </string-array>
+
+    <string-array name="dominica">
+        <item>Country Name:      Dominica</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:   Roseau</item>
+        <item>Country Currency:   Dominican peso</item>
+        <item>Official Language: Spanish</item>
+        <item>Presidents Name:    Charles Savarin</item>
+    </string-array>
+
+
+    <string-array name="dominican">
+        <item>Country Name:      Dominican Republic</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:     Santo Domingo</item>
+        <item>Country Currency:    	 Dominican peso</item>
+        <item>Official Language:  Spanish</item>
+        <item>Presidents Name:   Danilo Medina</item>
+    </string-array>
+
+    <string-array name="easttimor">
+        <item>Country Name:      East Timor</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    Dill</item>
+        <item>Country Currency:   US Dollar</item>
+        <item>Official Language:   Portuguese, Tetum</item>
+        <item>Presidents Name:    Taur Matan Ruak</item>
+    </string-array>
+
+    <string-array name="ecuador">
+        <item>Country Name:      Ecuador</item>
+        <item>Continent :         South America</item>
+        <item>Country Capital:    Quito</item>
+        <item>Country Currency: US Dollar</item>
+        <item>Official Language:  Spanish</item>
+        <item>Presidents Name:   Rafael Correa</item>
+    </string-array>
+
+    <string-array name="elsalvador">
+        <item>Country Name:      Elsalvador</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:    San Salvador</item>
+        <item>Country Currency:   United States Dollar</item>
+        <item>Official Language: Spanish</item>
+        <item>Presidents Name:   Salvador Sánchez Cerén</item>
+    </string-array>
+
+    <string-array name="equatorial">
+        <item>Country Name:      Equatorial Guinea</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Malabo </item>
+        <item>Country Currency:   Equatorial Guinean peseta</item>
+        <item>Official Language:  Spanish, French, Portuguese</item>
+        <item>Presidents Name:   Teodoro Obiang Nguema</item>
+    </string-array>
+
+    <string-array name="eritrea">
+        <item>Country Name:      Eritrea</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:    Asmara</item>
+        <item>Country Currency:   Tallero</item>
+        <item>Official Language:   Tigrinya, English, Arabic</item>
+        <item>Presidents Name:   Isaias Afwerki</item>
+    </string-array>
+    <string-array name="estonia">
+        <item>Country Name:      Estonia</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Tallinn </item>
+        <item>Country Currency:    Euro  </item>
+        <item>Official Language:   Estonian</item>
+        <item>Presidents Name:   Toomas Hendrik Ilves</item>
+    </string-array>
+
+    <string-array name="ethiopia">
+        <item>Country Name:      Ethiopia</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:    Addis Ababa</item>
+        <item>Country Currency:   Birr</item>
+        <item>Official Language:  Amharic</item>
+        <item>Presidents Name:    Mulatu Teshome</item>
+    </string-array>
+
+    <string-array name="fiji">
+        <item>Country Name:      Fiji</item>
+        <item>Continent :        Australia and Oceania</item>
+        <item>Country Capital:   Suva </item>
+        <item>Country Currency:  Fijian dollar </item>
+        <item>Official Language: Albanian</item>
+        <item>Presidents Name:    George Konrote</item>
+    </string-array>
+
+    <string-array name="finland">
+        <item>Country Name:      Finland</item>
+        <item>Continent :        Afica</item>
+        <item>Country Capital:   Helsinki </item>
+        <item>Country Currency:  Euro</item>
+        <item>Official Language: Finnish</item>
+        <item>Presidents Name:    Sauli Niinistö</item>
+    </string-array>
+
+    <string-array name="france">
+        <item>Country Name:      France</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Paris</item>
+        <item>Country Currency:  Euro, CFA franc</item>
+        <item>Official Language: French</item>
+        <item>Presidents Name:  François Hollande</item>
+    </string-array>
+
+    <string-array name="garbon">
+        <item>Country Name:      Gabon</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Libreville </item>
+        <item>Country Currency:  CFA franc</item>
+        <item>Official Language: French</item>
+        <item>Presidents Name:   Ali Bongo Ondimba</item>
+    </string-array>
+
+    <string-array name="gambia">
+        <item>Country Name:      Gambia</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Banjul </item>
+        <item>Country Currency:  Gambian dalasi</item>
+        <item>Official Language: English</item>
+        <item>Presidents Name:   Yahya Jammeh</item>
+    </string-array>
+
+    <string-array name="georgia">
+        <item>Country Name:      Georgia</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Tbilisi </item>
+        <item>Country Currency:  Lari</item>
+        <item>Official Language: Georgian</item>
+        <item>Presidents Name:   Giorgi Margvelashvili</item>
+    </string-array>
+
+    <string-array name="germany">
+        <item>Country Name:      Germany</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Berlin</item>
+        <item>Country Currency:  Euro</item>
+        <item>Official Language: German</item>
+        <item>Presidents Name:    Joachim Gauck</item>
+    </string-array>
+
+    <string-array name="ghana">
+        <item>Country Name:      Ghana</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Accra</item>
+        <item>Country Currency:  Ghana Cedi </item>
+        <item>Official Language: English</item>
+        <item>Presidents Name:   John Dramani Mahama</item>
+    </string-array>
+
+
+    <string-array name="greece">
+        <item>Country Name:     Greece</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Athens</item>
+        <item>Country Currency:  Euro</item>
+        <item>Official Language: Greek</item>
+        <item>Presidents Name:   Prokopis Pavlopoulos</item>
+    </string-array>
+
+    <string-array name="grenada">
+        <item>Country Name:      Grenada</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:    Saint Georges</item>
+        <item>Country Currency:  East caribbean Dollar</item>
+        <item>Official Language:  English</item>
+        <item>Presidents Name:   Dame Cécile La Grenade</item>
+    </string-array>
+
+    <string-array name="guatemala">
+        <item>Country Name:      Guatemala</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:    Guatemala City </item>
+        <item>Country Currency:   Guatemalan quetzal</item>
+        <item>Official Language: Spanish</item>
+        <item>Presidents Name:    Jimmy Morales</item>
+    </string-array>
+
+    <string-array name="guinea">
+        <item>Country Name:      Guinea</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:    Conakry</item>
+        <item>Country Currency:   Guinea Franc</item>
+        <item>Official Language: French</item>
+        <item>Presidents Name:   Alpha Condé[</item>
+    </string-array>
+
+    <string-array name="guineabissau">
+        <item>Country Name:      Guinea-Bissau</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Bissau</item>
+        <item>Country Currency:  CFA Franc</item>
+        <item>Official Language:  Portuguese</item>
+        <item>Presidents Name:   José Mário Vaz</item>
+    </string-array>
+
+    <string-array name="guyana">
+        <item>Country Name:      Guyana</item>
+        <item>Continent :        South America</item>
+        <item>Country Capital:   Georgetown </item>
+        <item>Country Currency:  Guyanese dollar</item>
+        <item>Official Language: English</item>
+        <item>Presidents Name:   David A. Granger</item>
+    </string-array>
+
+    <string-array name="haiti">
+        <item>Country Name:      Haiti</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:    Port-au-Prince</item>
+        <item>Country Currency:  Haitian gourde </item>
+        <item>Official Language:  French</item>
+        <item>Presidents Name:   Interim – Jocelerme Privert</item>
+    </string-array>
+
+    <string-array name="honduras">
+        <item>Country Name:      Honduras</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:    Tegucigalpa</item>
+        <item>Country Currency:    Honduran lempira</item>
+        <item>Official Language: Spanish</item>
+        <item>Presidents Name:   Juan Orlando Hernández</item>
+    </string-array>
+
+
+    <string-array name="hungary">
+        <item>Country Name:      Hungary</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:     Budapest</item>
+        <item>Country Currency:   Forint</item>
+        <item>Official Language:   Hungarian</item>
+        <item>Presidents Name:   János Áder</item>
+    </string-array>
+
+    <string-array name="iceland">
+        <item>Country Name:      Iceland</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Reykjavik</item>
+        <item>Country Currency:    Icelandic króna</item>
+        <item>Official Language:   Icelandic</item>
+        <item>Presidents Name:    Ólafur Ragnar Grímsson</item>
+    </string-array>
+
+
+    <string-array name="india">
+        <item>Country Name:      India</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    New Delhi</item>
+        <item>Country Currency:   Rupee</item>
+        <item>Official Language:   Hindi, English</item>
+        <item>Presidents Name:    Pranab Mukherjee</item>
+    </string-array>
+
+    <string-array name="indonesia">
+        <item>Country Name:      Indonesia</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Jakarta </item>
+        <item>Country Currency:   Rupiah</item>
+        <item>Official Language:  Indonesian</item>
+        <item>Presidents Name:    Joko Widodo</item>
+    </string-array>
+
+    <string-array name="iran">
+        <item>Country Name:      Iran</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Tehran </item>
+        <item>Country Currency:    Rial</item>
+        <item>Official Language:   Persian</item>
+        <item>Presidents Name:   Ayatollah Ali Khamenei</item>
+    </string-array>
+
+    <string-array name="iraq">
+        <item>Country Name:      Iraq</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    Baghdad</item>
+        <item>Country Currency:   Iraqi dinar</item>
+        <item>Official Language:   Kurdish, Arabic</item>
+        <item>Presidents Name:   Fuad Masum</item>
+    </string-array>
+
+    <string-array name="ireland">
+        <item>Country Name:      Ireland</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Dublin</item>
+        <item>Country Currency:    Euro</item>
+        <item>Official Language:   	 English, Irish</item>
+        <item>Presidents Name:   Michael D. Higgins</item>
+    </string-array>
+
+    <string-array name="isreal">
+        <item>Country Name:      Isreal</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    Jerusalem</item>
+        <item>Country Currency:   New Shekel</item>
+        <item>Official Language:  Hebrew, Arabic</item>
+        <item>Presidents Name:   Reuven Rivlin </item>
+    </string-array>
+
+
+    <string-array name="italy">
+        <item>Country Name:      Italy</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    	  Rome</item>
+        <item>Country Currency:    Euro</item>
+        <item>Official Language: Italian</item>
+        <item>Presidents Name:   Sergio Mattarella</item>
+    </string-array>
+
+    <string-array name="ivorycoast">
+        <item>Country Name:      Ivory Coast</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Yamoussoukro </item>
+        <item>Country Currency:   CFA franc</item>
+        <item>Official Language: French</item>
+        <item>Presidents Name:    Alassane Ouattara</item>
+    </string-array>
+
+    <string-array name="jamaica">
+        <item>Country Name:      Jamaica</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:   Kingston</item>
+        <item>Country Currency:  Jamaican Dollar</item>
+        <item>Official Language: English</item>
+        <item>Presidents Name:     Sir Patrick Allen</item>
+    </string-array>
+
+    <string-array name="japan">
+        <item>Country Name:      Japan</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    Tokyo</item>
+        <item>Country Currency:   Yen</item>
+        <item>Official Language: Japanese</item>
+        <item>Presidents Name:   Emperor – Akihito</item>
+    </string-array>
+
+    <string-array name="jordan">
+        <item>Country Name:      Jordan</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Amman</item>
+        <item>Country Currency:   Jordanian dinar</item>
+        <item>Official Language: Arabic</item>
+        <item>Presidents Name:   King – Abdullah II</item>
+    </string-array>
+
+    <string-array name="kazakhstan">
+        <item>Country Name:     Kazakhstan</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    Astana</item>
+        <item>Country Currency:  Tenge</item>
+        <item>Official Language:  Kazakh, Russian</item>
+        <item>Presidents Name:   Nursultan Nazarbayev</item>
+    </string-array>
+
+    <string-array name="kenya">
+        <item>Country Name:      Kenya</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:     Nairobi</item>
+        <item>Country Currency:    Kenyan shilling</item>
+        <item>Official Language: Swahili, English</item>
+        <item>Presidents Name:   Uhuru Kenyatta</item>
+    </string-array>
+
+    <string-array name="kiribati">
+        <item>Country Name:      Kiribati</item>
+        <item>Continent :        Auatralia and Oceania</item>
+        <item>Country Capital:    Tarawa Atoll</item>
+        <item>Presidents Name:    Taneti Mamau</item>
+    </string-array>
+
+    <string-array name="kuwait">
+        <item>Country Name:      Kuwait</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:     Kuwait City</item>
+        <item>Country Currency:  Kuwaiti dinar</item>
+        <item>Official Language:   Arabic</item>
+        <item>Presidents Name:  Sheikh Sabah Al-Ahmad Al-Jaber </item>
+    </string-array>
+
+    <string-array name="kyrgyzstan">
+        <item>Country Name:      Kyrgyzstan</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    Bishkek</item>
+        <item>Country Currency:   Som</item>
+        <item>Official Language:  Kyrgyz, Russian</item>
+        <item>Presidents Name:   Almazbek Atambayev</item>
+    </string-array>
+
+
+    <string-array name="laos">
+        <item>Country Name:      Laos</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    Vientiane</item>
+        <item>Country Currency:   Kip</item>
+        <item>Official Language:  Lao</item>
+        <item>Presidents Name:   Bounnhang Vorachith</item>
+    </string-array>
+
+    <string-array name="latvia">
+        <item>Country Name:      Latvia</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Riga</item>
+        <item>Country Currency:    Euro</item>
+        <item>Official Language:  Latvian</item>
+        <item>Presidents Name:  Raimonds Vējonis</item>
+    </string-array>
+
+    <string-array name="lebanon">
+        <item>Country Name:      Lebanon</item>
+        <item>Continent :         Asia</item>
+        <item>Country Capital:   Beirut</item>
+        <item>Country Currency: Lebanese pound</item>
+        <item>Official Language: Arabic</item>
+        <item>Presidents Name:   Tammam Salam</item>
+    </string-array>
+
+    <string-array name="liberia">
+        <item>Country Name:      Liberia</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:    Monrovia</item>
+        <item>Country Currency:    Liberian dollar</item>
+        <item>Official Language:  English</item>
+        <item>Presidents Name:   Ellen Johnson Sirleaf</item>
+    </string-array>
+
+    <string-array name="libya">
+        <item>Country Name:      Libya</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Tripoli </item>
+        <item>Country Currency:  Dinar</item>
+        <item>Official Language:  Arabic</item>
+        <item>Presidents Name:    Fayez al-Sarraj</item>
+    </string-array>
+
+    <string-array name="liechtenstein">
+        <item>Country Name:      Liechtenstein</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Vaduz</item>
+        <item>Country Currency:   Swiss franc</item>
+        <item>Official Language:  German</item>
+        <item>Presidents Name:     Hans-Adam II</item>
+    </string-array>
+    <string-array name="lithuania">
+        <item>Country Name:      Lithuania</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Vilnius</item>
+        <item>Country Currency:   Euro </item>
+        <item>Official Language:  Lithuanian</item>
+        <item>Presidents Name:  Dalia Grybauskaitė</item>
+    </string-array>
+
+    <string-array name="luxembourg">
+        <item>Country Name:      Luxembourg</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Luxembourg</item>
+        <item>Country Currency:   Euro</item>
+        <item>Official Language:   Luxembourgish,French, German</item>
+        <item>Presidents Name:    Grand Duke – Henri</item>
+    </string-array>
+
+    <string-array name="nigeria">
+        <item>Country Name:      Nigeria</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Abuja</item>
+        <item>Country Currency:   Naira</item>
+        <item>Official Language:   English</item>
+        <item>Presidents Name:    Muhammadu Buhari</item>
+    </string-array>
+
+    <string-array name="worldfacts">
+        <item>World Most Popular Search Engine:      Google Search (Google.com)</item>
+        <item>The Richest Man Ever:      Mansa Musa of Mali, Estimate Worth of $400 billion</item>
+        <item>The Richest Man in the World:        Carlos Slim</item>
+        <item>World Richest Woman:   Liliane Bettencourt (11th Richest in the world) </item>
+        <item>World First Car:  Benz Patent - Motorwagen </item>
+        <item>World First Website: http://info.cern.ch/hypertext/www/</item>
+        <item>World Highest Rated University:   Harvard University</item>
+        <item>World most Popular Currency:      United States Dollar</item>
+        <item>The country with the Highest Population  :        China</item>
+        <item>World Most Visited Country:   France</item>
+        <item>The Richest Country in the World:   Qatar (G.D.P is $1,34,871.95)</item>
+        <item>The Founder of the World Wide Web:   Sir Tim Berners (1989) - Lee</item>
+        <item>The most powerful country in the world:    United States of America</item>
+        <item>The biggest country in the world (Landmass):  Russia (17,075,200 sq.km)</item>
+        <item>The Fastest Car in the World  : Venom GT (290.49 MPH)</item>
+        <item>The most Popular Mobile Operating System in the World:   Android Operating System</item>
+
+    </string-array>
+
+    <string-array name="macedonia">
+        <item>Country Name:      Macedonia</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Skopje</item>
+        <item>Country Currency:  Macedonian denar</item>
+        <item>Official Language: Macedonian</item>
+        <item>Presidents Name:   Gjorge Ivanov</item>
+    </string-array>
+
+    <string-array name="madagascar">
+        <item>Country Name:       Madagascar</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Antananarivo</item>
+        <item>Country Currency:  Malagasy ariary</item>
+        <item>Official Language:  Malagasy, French</item>
+        <item>Presidents Name:    Hery Rajaonarimampianina</item>
+    </string-array>
+
+    <string-array name="malawi">
+        <item>Country Name:       	 Malawi</item>
+        <item>Continent :        Afica</item>
+        <item>Country Capital:    Lilongwe</item>
+        <item>Country Currency:   Kwacha</item>
+        <item>Official Language: English, Chichewa</item>
+        <item>Presidents Name:  Peter Mutharika</item>
+    </string-array>
+
+    <string-array name="maldives">
+        <item>Country Name:      maldives</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    Male</item>
+        <item>Country Currency:  Maldivian rufiyaa</item>
+        <item>Official Language: Maldivian</item>
+        <item>Presidents Name:   Abdulla Yameen</item>
+    </string-array>
+
+    <string-array name="malaysia">
+        <item>Country Name:      Malaysia</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Bamako </item>
+        <item>Country Currency:  CFA franc</item>
+        <item>Official Language: French</item>
+        <item>Presidents Name:   Tuanku Abdul Halim</item>
+    </string-array>
+
+    <string-array name="mali">
+        <item>Country Name:      Mali</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Bamako </item>
+        <item>Country Currency:  CFA franc</item>
+        <item>Official Language: French</item>
+        <item>Presidents Name:    Ibrahim Boubacar Keïta</item>
+    </string-array>
+
+    <string-array name="malta">
+        <item>Country Name:      Malta</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Valletta</item>
+        <item>Country Currency:  Euro</item>
+        <item>Official Language: Maltese, English</item>
+        <item>Presidents Name:   Marie Louise Coleiro Preca</item>
+    </string-array>
+
+    <string-array name="marshall">
+        <item>Country Name:       Marshall Islands</item>
+        <item>Continent :        Australia and Oceania</item>
+        <item>Country Capital:   Majuro</item>
+        <item>Presidents Name:   Hilda Heine</item>
+    </string-array>
+
+    <string-array name="mauritania">
+        <item>Country Name:       Mauritania</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Nouakchott</item>
+        <item>Country Currency:  Ouguiya</item>
+        <item>Official Language: Arabic</item>
+        <item>Presidents Name:   Mohamed Ould Abdel Aziz</item>
+    </string-array>
+
+    <string-array name="mauritius">
+        <item>Country Name:      Mauritius</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Port Louis</item>
+        <item>Country Currency:   Mauritian rupee </item>
+        <item>Official Language:  Mauritian Creole, French, English</item>
+        <item>Presidents Name:    Ameenah Gurib</item>
+    </string-array>
+
+    <string-array name="mexico">
+        <item>Country Name:      Mexico</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:   Mexico City</item>
+        <item>Country Currency:  Mexican peso</item>
+        <item>Official Language: Spanish</item>
+        <item>Presidents Name:    Enrique Peña Nieto</item>
+    </string-array>
+
+
+    <string-array name="micronesia">
+        <item>Country Name:      Micronesia</item>
+        <item>Continent :        Australia and Oceania</item>
+        <item>Country Capital:    Palikir</item>
+        <item>Official Language: English</item>
+        <item>Presidents Name:    Peter M. Christian</item>
+    </string-array>
+
+    <string-array name="moldova">
+        <item>Country Name:      Moldova</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Chisinau</item>
+        <item>Country Currency:   Moldovan leu </item>
+        <item>Official Language:   Moldovan</item>
+        <item>Presidents Name:   Nicolae Timofti</item>
+    </string-array>
+
+    <string-array name="monaco">
+        <item>Country Name:      Monaco</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Monaco</item>
+        <item>Country Currency:   Euro</item>
+        <item>Official Language: French</item>
+        <item>Presidents Name:    Sovereign Prince – Albert II</item>
+    </string-array>
+
+    <string-array name="mongolia">
+        <item>Country Name:      Mongolia</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Ulaanbaatar</item>
+        <item>Country Currency:   Tögrög</item>
+        <item>Official Language:  Mongolian</item>
+        <item>Presidents Name:   Tsakhiagiin Elbegdorj</item>
+    </string-array>
+
+    <string-array name="montenegro">
+        <item>Country Name:       Montenegro</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Podgorica</item>
+        <item>Country Currency:   Euro</item>
+        <item>Official Language:  Montenegrin</item>
+        <item>Presidents Name:    Filip Vujanović</item>
+    </string-array>
+
+    <string-array name="morocco">
+        <item>Country Name:      Morocco</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Rabat</item>
+        <item>Country Currency:  Moroccan dirham</item>
+        <item>Official Language:  Arabic, Berber</item>
+        <item>Presidents Name:   King – Mohammed VI</item>
+    </string-array>
+
+    <string-array name="montserrat">
+        <item>Country Name:      Montserrat</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Rabat</item>
+
+    </string-array>
+
+    <string-array name="mozambique">
+        <item>Country Name:       Mozambique</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Maputo </item>
+        <item>Country Currency:   Mozambican metical </item>
+        <item>Official Language:  Portuguese</item>
+        <item>Presidents Name:    Filipe Nyusi</item>
+    </string-array>
+
+    <string-array name="northkorea">
+        <item>Country Name:      North Korea</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:     Pyongyang</item>
+        <item>Country Currency:    	 North Korean won</item>
+        <item>Official Language:  Korean</item>
+        <item>Presidents Name:   Kim Jong-un</item>
+    </string-array>
+
+
+    <string-array name="namibia">
+        <item>Country Name:      Namibia</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:    Windhoek</item>
+        <item>Country Currency:    Namibian dollar</item>
+        <item>Official Language:   English</item>
+        <item>Presidents Name:    Hage Geingob</item>
+    </string-array>
+
+    <string-array name="nauru">
+        <item>Country Name:       Nauru</item>
+        <item>Continent :        Australia and Oceania</item>
+        <item>Country Capital:    Yaren (de facto)</item>
+        <item>Presidents Name:   Baron Waqa</item>
+    </string-array>
+
+
+    <string-array name="nepal">
+        <item>Country Name:       Nepal</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    Kathmandu</item>
+        <item>Country Currency:    Nepalese rupee</item>
+        <item>Official Language:   Nepali</item>
+        <item>Presidents Name:    Bidhya Devi Bhandari</item>
+    </string-array>
+
+    <string-array name="netherlands">
+        <item>Country Name:       Netherlands (Holland)</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Amsterdam</item>
+        <item>Country Currency:    Euro</item>
+        <item>Official Language:  Dutch</item>
+        <item>Presidents Name:     Willem-Alexander</item>
+    </string-array>
+
+    <string-array name="newzealand">
+        <item>Country Name:      New Zealand</item>
+        <item>Continent :        Australia and Oceania</item>
+        <item>Country Capital:   Wellington</item>
+        <item>Country Currency:   New Zealand Dollar</item>
+        <item>Official Language:   Maori,New Zealand Sign, English</item>
+        <item>Presidents Name:    Sir Jerry Mateparae</item>
+    </string-array>
+
+    <string-array name="nicaragua">
+        <item>Country Name:      Nicaragua</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:    Managua</item>
+        <item>Country Currency:   Nicaraguan cordoba</item>
+        <item>Official Language:  Spanish</item>
+        <item>Presidents Name:    Daniel Ortega</item>
+    </string-array>
+
+    <string-array name="niger">
+        <item>Country Name:       Niger</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Niamey</item>
+        <item>Country Currency:   CFA franc</item>
+        <item>Official Language:  French</item>
+        <item>Presidents Name:   Mahamadou Issoufou</item>
+    </string-array>
+
+    <string-array name="norway">
+        <item>Country Name:      Norway</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Oslo </item>
+        <item>Country Currency:  Norwegian krone</item>
+        <item>Official Language:  Norwegian, Bokmål,Nynorsk</item>
+        <item>Presidents Name:  King – Harald V</item>
+    </string-array>
+
+
+    <string-array name="oman">
+        <item>Country Name:      Oman</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    	 Muscat</item>
+        <item>Country Currency:    Rial</item>
+        <item>Official Language:  Arabic</item>
+        <item>Presidents Name:   Qaboos bin Said al Said</item>
+    </string-array>
+
+    <string-array name="palestine">
+        <item>Country Name:      palestine</item>
+        <item>Continent :        Asia</item>
+        <item>Presidents Name:    Mahmoud Abbas</item>
+    </string-array>
+
+    <string-array name="pakistan">
+        <item>Country Name:       Pakistan</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Islamabad </item>
+        <item>Country Currency:  Pakistani Rupee</item>
+        <item>Official Language: English,Urdu</item>
+        <item>Presidents Name:  Mamnoon Hussain</item>
+    </string-array>
+
+    <string-array name="palau">
+        <item>Country Name:      Palau</item>
+        <item>Continent :        Australia and Oceania</item>
+        <item>Country Capital:   Melekeok</item>
+        <item>Presidents Name:   Tommy Remengesau</item>
+    </string-array>
+
+    <string-array name="panama">
+        <item>Country Name:      Panama</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:   Panama City</item>
+        <item>Country Currency:   United States Dollar</item>
+        <item>Official Language:  Spanish</item>
+        <item>Presidents Name:   Juan Carlos Varela</item>
+    </string-array>
+
+    <string-array name="papuanewguinea">
+        <item>Country Name:       Papua New Guinea</item>
+        <item>Continent :        Australia and Oceania</item>
+        <item>Country Capital:   Port Moresby</item>
+        <item>Presidents Name:   Sir Michael Ogio</item>
+    </string-array>
+
+    <string-array name="paraguay">
+        <item>Country Name:      Paraguay</item>
+        <item>Continent :        South America</item>
+        <item>Country Capital:    Asuncion</item>
+        <item>Country Currency:   Guaraní</item>
+        <item>Official Language:  Spanish, Guaraní</item>
+        <item>Presidents Name:  Horacio Cartes</item>
+    </string-array>
+
+    <string-array name="peru">
+        <item>Country Name:      Peru</item>
+        <item>Continent :        South America</item>
+        <item>Country Capital:    Lima</item>
+        <item>Country Currency:    	 Nuevo sol </item>
+        <item>Official Language:   Spanish</item>
+        <item>Presidents Name:    Ollanta Humala</item>
+    </string-array>
+
+    <string-array name="philippines">
+        <item>Country Name:      philippines</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:     Manila</item>
+        <item>Country Currency:    	 Philippine Peso</item>
+        <item>Official Language:  Filipino, English</item>
+        <item>Presidents Name:    Rodrigo Duterte</item>
+    </string-array>
+
+
+
+    <string-array name="poland">
+        <item>Country Name:     Poland</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Warsaw</item>
+        <item>Country Currency:  Złoty</item>
+        <item>Official Language:   	 Polish</item>
+        <item>Presidents Name:    Andrzej Duda</item>
+    </string-array>
+
+    <string-array name="portugal">
+        <item>Country Name:      Portugal</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Lisbon</item>
+        <item>Country Currency:    Euro</item>
+        <item>Official Language:  	 Portuguese</item>
+        <item>Presidents Name:    Marcelo Rebelo de Sousa
+
+        </item>
+    </string-array>
+
+
+    <string-array name="qatar">
+        <item>Country Name:      Qatar</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:     Doha</item>
+        <item>Country Currency:    Riyal</item>
+        <item>Official Language:   Arabic</item>
+        <item>Presidents Name:   Sheikh Tamim bin Hamad Al Thani</item>
+    </string-array>
+
+    <string-array name="romania">
+        <item>Country Name:      Romania</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Bucharest</item>
+        <item>Country Currency:   Romanian leu</item>
+        <item>Official Language:   Romanian</item>
+        <item>Presidents Name:   Klaus Iohannis</item>
+    </string-array>
+
+    <string-array name="russia">
+        <item>Country Name:      Russia</item>
+        <item>Continent :         Europe</item>
+        <item>Country Capital:   Moscow</item>
+        <item>Country Currency:  Russian ruble</item>
+        <item>Official Language: Russian, 27 others co-official</item>
+        <item>Presidents Name:     Vladimir Putin</item>
+    </string-array>
+
+    <string-array name="rwanda">
+        <item>Country Name:      Rwanda</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:    Kigali</item>
+        <item>Country Currency:    Rwandan franc</item>
+        <item>Official Language:  Kinyarwanda, English, French</item>
+        <item>Presidents Name:    Paul Kagame</item>
+    </string-array>
+
+    <string-array name="southkorea">
+        <item>Country Name:      South Korea</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Seoul</item>
+        <item>Country Currency:  South Korean won</item>
+        <item>Official Language:  Korean</item>
+        <item>Presidents Name:    Park Geun-hye</item>
+    </string-array>
+
+    <string-array name="saudiarabia">
+        <item>Country Name:       Saudi Arabia</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:    Riyadh</item>
+        <item>Country Currency:   Saudi riyal</item>
+        <item>Official Language:   Arabic</item>
+        <item>Presidents Name:   King and Prime Minister – Salman</item>
+    </string-array>
+    <string-array name="senegal">
+        <item>Country Name:       Senegal</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:     	 Dakar </item>
+        <item>Country Currency:   CFA franc</item>
+        <item>Official Language:  French</item>
+        <item>Presidents Name:   Macky Sall</item>
+    </string-array>
+
+    <string-array name="serbia">
+        <item>Country Name:       Serbia</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Belgrade</item>
+        <item>Country Currency:   Serbian dinar</item>
+        <item>Official Language:   Serbian</item>
+        <item>Presidents Name:   Tomislav Nikolić</item>
+    </string-array>
+
+    <string-array name="sierraleone">
+        <item>Country Name:      Sierra Leone</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:     Freetown</item>
+        <item>Country Currency:    Leone</item>
+        <item>Official Language:  English</item>
+        <item>Presidents Name:   Ernest Bai Koroma</item>
+    </string-array>
+
+    <string-array name="singapore">
+        <item>Country Name:       Singapore</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Singapore</item>
+        <item>Country Currency:    Singapore dollar</item>
+        <item>Official Language:  English, Chinese, Malay, Tamil</item>
+        <item>Presidents Name:   Tony Tan</item>
+    </string-array>
+
+
+    <string-array name="slovakia">
+        <item>Country Name:      Slovakia</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:     Bratislava</item>
+        <item>Country Currency:    	 Euro</item>
+        <item>Official Language:   Slovak</item>
+        <item>Presidents Name:  Andrej Kiska</item>
+    </string-array>
+
+    <string-array name="slovenia">
+        <item>Country Name:      Slovenia</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Ljubljana</item>
+        <item>Country Currency:   Euro</item>
+        <item>Official Language:  Slovene</item>
+        <item>Presidents Name:    Taur Matan Ruak</item>
+    </string-array>
+
+    <string-array name="solomonislands">
+        <item>Country Name:      Solomon Islands</item>
+        <item>Continent :         Australia and Oceania</item>
+        <item>Country Capital:    Honiara</item>
+        <item>Presidents Name:  Sir Frank Kabui</item>
+    </string-array>
+
+    <string-array name="southafrica">
+        <item>Country Name:      South Africa</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:     Pretoria (administrative), Cape Town (legislative), Bloemfontein (judiciary)</item>
+        <item>Country Currency:    South African rand</item>
+        <item>Official Language: English, Afrikaans, Swazi</item>
+        <item>Presidents Name:  Jacob Zuma</item>
+    </string-array>
+
+    <string-array name="spain">
+        <item>Country Name:      Spain</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Madrid</item>
+        <item>Country Currency:   Euro</item>
+        <item>Official Language:  Spanish, Catalan</item>
+        <item>Presidents Name:   	King – Felipe VI</item>
+    </string-array>
+
+    <string-array name="sudan">
+        <item>Country Name:      Sudan</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Khartoum</item>
+        <item>Country Currency:  Sudanese pound</item>
+        <item>Official Language: Arabic, English</item>
+        <item>Presidents Name:   Omar al-Bashir</item>
+    </string-array>
+
+    <string-array name="swaziland">
+        <item>Country Name:      Swaziland</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:     Mbabane </item>
+        <item>Country Currency:    Lilangeni </item>
+        <item>Official Language:   English, Swati</item>
+        <item>Presidents Name:   Toomas Hendrik Ilves</item>
+    </string-array>
+
+    <string-array name="sweden">
+        <item>Country Name:       Sweden</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:    Stockholm</item>
+        <item>Country Currency:   Swedish krona</item>
+        <item>Official Language:  Swedish</item>
+        <item>Presidents Name:     Carl XVI Gustaf</item>
+    </string-array>
+
+    <string-array name="switzerland">
+        <item>Country Name:      Switzerland</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Bern</item>
+        <item>Country Currency:   Swiss franc </item>
+        <item>Official Language:  German, French, Italian</item>
+        <item>Presidents Name:    Johann Schneider-Ammann</item>
+    </string-array>
+
+    <string-array name="syria">
+        <item>Country Name:      Syria</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Damascus</item>
+        <item>Country Currency:  Syrian pound</item>
+        <item>Official Language:  Arabic</item>
+        <item>Presidents Name:    Bashar al-Assad</item>
+    </string-array>
+
+    <string-array name="taiwan">
+        <item>Country Name:      Taiwan</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Taipei</item>
+        <item>Country Currency:  New Taiwan dollar</item>
+        <item>Official Language:  Standard Chinese</item>
+        <item>Presidents Name:  Tsai Ing-wen</item>
+    </string-array>
+
+    <string-array name="tajikistan">
+        <item>Country Name:      Tajikistan</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Dushanbe </item>
+        <item>Country Currency:   Somoni</item>
+        <item>Official Language: Tajik</item>
+        <item>Presidents Name:   Emomali Rahmon</item>
+    </string-array>
+
+    <string-array name="tanzania">
+        <item>Country Name:      Tanzania</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:    Dodoma </item>
+        <item>Country Currency:  Tanzanian shilling</item>
+        <item>Official Language:  Swahili,English</item>
+        <item>Presidents Name:   John Magufuli</item>
+    </string-array>
+
+    <string-array name="thailand">
+        <item>Country Name:      Thailand</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Bangkok</item>
+        <item>Country Currency:   Baht</item>
+        <item>Official Language:  Thai</item>
+        <item>Presidents Name:     Bhumibol Adulyadej</item>
+    </string-array>
+
+    <string-array name="togo">
+        <item>Country Name:       Togo</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Lome</item>
+        <item>Country Currency:   CFA franc </item>
+        <item>Official Language: English</item>
+        <item>Presidents Name:   Faure Gnassingbé</item>
+    </string-array>
+
+
+    <string-array name="trinidad">
+        <item>Country Name:     Trinidada and Tobago</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:   Port-of-Spain</item>
+        <item>Country Currency:   Trinidad and Tobago Dollar</item>
+        <item>Official Language:  English</item>
+        <item>Presidents Name:   Anthony Carmona</item>
+    </string-array>
+
+    <string-array name="tunisia">
+        <item>Country Name:      Tunisia</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:    Tunis</item>
+        <item>Country Currency:   	 Tunisian dinar</item>
+        <item>Official Language:  Arabic</item>
+        <item>Presidents Name:   Beji Caid Essebsi</item>
+    </string-array>
+
+    <string-array name="turkey">
+        <item>Country Name:       Turkey</item>
+        <item>Continent :         Asia</item>
+        <item>Country Capital:    Ankara</item>
+        <item>Country Currency:    	 Turkish lira</item>
+        <item>Official Language:  Turkish</item>
+        <item>Presidents Name:    Recep Tayyip Erdoğan</item>
+    </string-array>
+
+    <string-array name="turkmenistan">
+        <item>Country Name:      Turkmenistan</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:     Ashgabat</item>
+        <item>Country Currency:   Turkmen new manat</item>
+        <item>Official Language: Turkmen</item>
+        <item>Presidents Name:   Gurbanguly Berdimuhamedow[</item>
+    </string-array>
+
+    <string-array name="tuvalu">
+        <item>Country Name:     Tuvalu</item>
+        <item>Continent :        Australia and Oceania</item>
+        <item>Country Capital:   Funafuti province</item>
+        <item>Presidents Name:    Sir Iakoba Italeli</item>
+    </string-array>
+
+    <string-array name="uganda">
+        <item>Country Name:      Uganda</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:    Kampala</item>
+        <item>Country Currency:  Ugandan shilling</item>
+        <item>Official Language:  Swahili, English, Luganda</item>
+        <item>Presidents Name:   Yoweri Museveni</item>
+    </string-array>
+
+    <string-array name="ukraine">
+        <item>Country Name:      Ukraine</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Kyiv</item>
+        <item>Country Currency:  Ukrainian hryvnia</item>
+        <item>Official Language:   Ukrainian</item>
+        <item>Presidents Name:    Petro Poroshenko</item>
+    </string-array>
+
+    <string-array name="unitedarabemirates">
+        <item>Country Name:      United Arab Emirates</item>
+        <item>Continent :   Asia</item>
+        <item>Country Capital:    Abu Dhabi</item>
+        <item>Country Currency:   UAE dirham</item>
+        <item>Official Language:   	 Arabic</item>
+        <item>Presidents Name:  Sheikh Khalifa bin Zayed Al Nahyan</item>
+    </string-array>
+
+    <string-array name="unitedkingdom">
+            <item>Country Name:      United Kingdom</item>
+            <item>Continent :        Europe</item>
+            <item>Country Capital:   London</item>
+            <item>Country Currency:   Pound sterling</item>
+            <item>Official Language:  English</item>
+            <item>Presidents Name:  Queen – Elizabeth II</item>
+        </string-array>
+
+
+    <string-array name="unitedstatesofamerica">
+        <item>Country Name:      United States of America</item>
+        <item>Continent :        North America</item>
+        <item>Country Capital:      Washington D.C.</item>
+        <item>Country Currency:    United States Dollar</item>
+        <item>Official Language:    English</item>
+        <item>Presidents Name:    Barack Obama</item>
+    </string-array>
+
+    <string-array name="uruguay">
+        <item>Country Name:       Uruguay</item>
+        <item>Continent :        South America</item>
+        <item>Country Capital:     Montevideo</item>
+        <item>Country Currency:     Uruguayan peso</item>
+        <item>Official Language:    Spanish</item>
+        <item>Presidents Name:    Tabaré Vázquez</item>
+    </string-array>
+
+
+    <string-array name="uzbekistan">
+        <item>Country Name:     Uzbekistan</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Tashkent </item>
+        <item>Country Currency:  Uzbekistan som (O’zbekiston so’mi)</item>
+        <item>Official Language:   Uzbek</item>
+        <item>Presidents Name:    Islam Karimov</item>
+    </string-array>
+
+    <string-array name="vanuatu">
+        <item>Country Name:      Vanuatu</item>
+        <item>Continent :        Australia and Oceania</item>
+        <item>Country Capital:   Port-Vila</item>
+        <item>Country Currency:    Vanuatu vatu</item>
+        <item>Official Language:   Bislama, French, English</item>
+        <item>Presidents Name:   Baldwin Lonsdale</item>
+    </string-array>
+
+    <string-array name="venezuela">
+        <item>Country Name:      venezuela</item>
+        <item>Continent :        South America</item>
+        <item>Official Language:   English</item>
+        <item>Presidents Name:    Nicolás Maduro</item>
+    </string-array>
+
+    <string-array name="vietnam">
+        <item>Country Name:      vietnam</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:   Vietnam</item>
+        <item>Country Currency:    Euro</item>
+        <item>Official Language:    	 Italian</item>
+        <item>Presidents Name:   Trần Đại Quang</item>
+    </string-array>
+
+
+    <string-array name="yemen">
+        <item>Country Name:       yemen</item>
+        <item>Continent :        Asia</item>
+        <item>Country Capital:     Montevideo</item>
+        <item>Country Currency:     Uruguayan peso</item>
+        <item>Official Language:    Spanish</item>
+        <item>Presidents Name:    Abd Rabbuh Mansur Hadi</item>
+    </string-array>
+
+
+    <string-array name="zambia">
+        <item>Country Name:     Zambia</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Tashkent </item>
+        <item>Country Currency:  Uzbekistan som (O’zbekiston so’mi)</item>
+        <item>Official Language:   Uzbek</item>
+        <item>Presidents Name:     Edgar Lungu</item>
+    </string-array>
+
+    <string-array name="zimbabwe">
+        <item>Country Name:      Zimbabwe</item>
+        <item>Continent :        Africa</item>
+        <item>Country Capital:   Port-Vila</item>
+        <item>Country Currency:    Vanuatu vatu</item>
+        <item>Official Language:   Bislama, French, English</item>
+        <item>Presidents Name:   Robert Mugabe</item>
+    </string-array>
+
+    <string-array name="wales">
+        <item>Country Name:      Wales</item>
+        <item>Continent :        Europe</item>
+        <item>Country Capital:   Cardiff</item>
+        <item>Country Currency:    Pounds Sterling</item>
+        <item>Official Language:   English, Welsh</item>
+        <item>Presidents Name:   Carwyn Jones </item>
+    </string-array>
+
+
+
+</resources>
+
